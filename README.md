@@ -8,8 +8,8 @@ First, a screenshot of the PUI2015 directory I created in Ubuntu. I created the 
 
 The following screenshots show how I declared the env variable and the alias in my bashrc.
 
-![Alt text](HW1_2)
+![Alt text][HW1_2]
 [HW1_2]: https://github.com/sarangof/gittest_sarangof/blob/master/Screenshots/HW1_2.png "Screenshot of environment variable in bashrc"
 
-![Alt text](HW1_3)
+![Alt text][HW1_3]
 [HW1_3]: https://github.com/sarangof/gittest_sarangof/blob/master/Screenshots/HW1_3.png "Screenshot of alias in bashrc"
